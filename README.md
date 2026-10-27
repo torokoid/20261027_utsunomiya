@@ -316,7 +316,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">今日のBGMは、そっと冬が来る｜うつろう季節のケルト音楽｜Relaxing Celtic Music｜癒しBGM　作業用BGM　リラックスBGM🍋</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/R-To9V8MRgE?si=zP6L6Gp1TvKULfsn&autoplay=1&mute=0&loop=1&playlist=R-To9V8MRgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-To9V8MRgE?si=zP6L6Gp1TvKULfsn&autoplay=1&mute=0&loop=1&playlist=R-To9V8MRgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 <br><br><br>
