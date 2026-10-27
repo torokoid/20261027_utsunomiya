@@ -268,7 +268,7 @@ p.note { display: none; }
 <div class="media-container">
 
 <h2><span class="yellow">2026Oct25、夜のプール玄関前のお花達は、玄関の明かりの前でニッコリ</span></h2>
-<a href="20261027_00001.jpeg" target="_blank"><img src="20261027_00001.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00001.JPG" target="_blank"><img src="20261027_00001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261027_00002.jpeg" target="_blank"><img src="20261027_00002.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">26日、犬のお散歩でご近所さんの庭先のお花達をパチリ！</span></h2>
