@@ -201,6 +201,19 @@ p.note { display: none; }
 
 
 
+/* 余白用のクラス定義 */
+        .space-large {
+            margin-bottom: 60px; /* お好みの広さに調整してください */
+        }
+        
+        .space-extra-large {
+            margin-bottom: 120px;
+        }
+
+        .space-footer {
+            margin-bottom: 200px;
+        }
+
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
@@ -247,9 +260,7 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2026/10/27、プール玄関前から、ご近所さんやカンセキ、スーパーのお花屋さんまでのお花特集 !!!</marquee></span></h1>
 
 
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="space-extra-large"></div>
 
 <!--ここから下が、本体部分-->
 
@@ -316,7 +327,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">今日のBGMは、そっと冬が来る｜うつろう季節のケルト音楽｜Relaxing Celtic Music｜癒しBGM　作業用BGM　リラックスBGM🍋</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R-To9V8MRgE?si=zP6L6Gp1TvKULfsn&autoplay=1&mute=0&loop=1&playlist=R-To9V8MRgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/R-To9V8MRgE?si=zP6L6Gp1TvKULfsn&autoplay=1&mute=0&loop=1&playlist=R-To9V8MRgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 <br><br><br>
@@ -338,21 +349,13 @@ p.note { display: none; }
 </style>
 
 
-<br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-<br><br>
-
-<br><br><br><br><br><br>
+<div class="space-large"></div>
 
 <!--本体はここまで-->
     </div>
 
 <!--画面に空白地帯を作って、背景が見えるようにしています-->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="space-footer"></div>
 
 
 
