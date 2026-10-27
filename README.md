@@ -268,45 +268,45 @@ p.note { display: none; }
 <div class="media-container">
 
 <h2><span class="yellow">2026Oct25、夜のプール玄関前のお花達は、玄関の明かりの前でニッコリ</span></h2>
-<a href="20261027_00001.JPG" target="_blank"><img src="20261027_00001.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00002.jpeg" target="_blank"><img src="20261027_00002.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00001.JPG" target="_blank"><img src="20261027_00001.JPG" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00002.jpeg" target="_blank"><img src="20261027_00002.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">26日、犬のお散歩でご近所さんの庭先のお花達をパチリ！</span></h2>
-<a href="20261027_00003.jpeg" target="_blank"><img src="20261027_00003.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00004.jpeg" target="_blank"><img src="20261027_00004.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00003.jpeg" target="_blank"><img src="20261027_00003.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00004.jpeg" target="_blank"><img src="20261027_00004.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">閉店セール中の宇都宮駅東のカンセキお花売り場から、雨に濡れるお花達</span></h2>
-<a href="20261027_00005.jpeg" target="_blank"><img src="20261027_00005.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00006.jpeg" target="_blank"><img src="20261027_00006.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00005.jpeg" target="_blank"><img src="20261027_00005.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00006.jpeg" target="_blank"><img src="20261027_00006.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">雲の隙間から陽射しが当たると、赤が映えます</span></h2>
-<a href="20261027_00007.jpeg" target="_blank"><img src="20261027_00007.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00008.jpeg" target="_blank"><img src="20261027_00008.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00007.jpeg" target="_blank"><img src="20261027_00007.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00008.jpeg" target="_blank"><img src="20261027_00008.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">しっとり濡れたケイトウも鮮やか</span></h2>
-<a href="20261027_00009.jpeg" target="_blank"><img src="20261027_00009.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00010.jpeg" target="_blank"><img src="20261027_00010.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00009.jpeg" target="_blank"><img src="20261027_00009.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00010.jpeg" target="_blank"><img src="20261027_00010.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">FKDでお昼ご飯</span></h2>
-<a href="20261027_00011.jpeg" target="_blank"><img src="20261027_00011.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00011.jpeg" target="_blank"><img src="20261027_00011.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">休み明けの月曜なので、メイン通路のベンチも空いてます</span></h2>
-<a href="20261027_00012.jpeg" target="_blank"><img src="20261027_00012.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00012.jpeg" target="_blank"><img src="20261027_00012.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">1階お花屋さんのお花達も元気にこんにちは</span></h2>
-<a href="20261027_00013.jpeg" target="_blank"><img src="20261027_00013.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00014.jpeg" target="_blank"><img src="20261027_00014.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00015.jpeg" target="_blank"><img src="20261027_00015.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00016.jpeg" target="_blank"><img src="20261027_00016.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00017.jpeg" target="_blank"><img src="20261027_00017.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261027_00018.jpeg" target="_blank"><img src="20261027_00018.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00013.jpeg" target="_blank"><img src="20261027_00013.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00014.jpeg" target="_blank"><img src="20261027_00014.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00015.jpeg" target="_blank"><img src="20261027_00015.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00016.jpeg" target="_blank"><img src="20261027_00016.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00017.jpeg" target="_blank"><img src="20261027_00017.jpeg" alt="サンプル画像" loading="lazy"></a>
+<a href="20261027_00018.jpeg" target="_blank"><img src="20261027_00018.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <h2><span class="yellow">最後の一枚は自宅の晩御飯</span></h2>
-<a href="20261027_00019.jpeg" target="_blank"><img src="20261027_00019.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261027_00019.jpeg" target="_blank"><img src="20261027_00019.jpeg" alt="サンプル画像" loading="lazy"></a>
 
 <!--
 <h2><span class="yellow">宇都宮市北部、ヨークベニマル御幸ヶ原店までの走行経路はこのルート</span></h2>
-<a href="20261022_00001.png" target="_blank"><img src="20261022_00001.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261022_00001.png" target="_blank"><img src="20261022_00001.png" alt="サンプル画像" loading="lazy"></a>
 
 
 <h2><span class="yellow">ヨークベニマル御幸ヶ原店までの行き帰り運転動画</span></h2>
